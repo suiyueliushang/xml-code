@@ -1,0 +1,27 @@
+<!ELEMENT animation-list (animation*)>
+<!ELEMENT animation (animeName,detail,resource+,comment)>
+<!ATTLIST animation id ID #REQUIRED>
+<!ELEMENT animeName (#PCDATA)>
+<!ELEMENT detail (animeMaker,director,screenwriter,posterSrc,releasePlace,language,duration,totalEpisodes,type,score,startTime,endTime?,animeIntroduction)>
+<!ELEMENT animeMaker (#PCDATA)>
+<!ELEMENT director (#PCDATA)>
+<!ELEMENT screenwriter (#PCDATA)>
+<!ELEMENT posterSrc (#PCDATA)>
+<!ELEMENT releasePlace (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT duration (#PCDATA)>
+<!ATTLIST duration units CDATA #REQUIRED>
+<!ELEMENT totalEpisodes (#PCDATA)>
+<!ELEMENT type (label*)>
+<!ATTLIST type form CDATA #IMPLIED>
+<!ELEMENT label (#PCDATA)>
+<!ELEMENT score (#PCDATA)>
+<!ATTLIST score platform CDATA #IMPLIED>
+<!ELEMENT startTime (#PCDATA)>
+<!ELEMENT endTime (#PCDATA)>
+<!ELEMENT animeIntroduction (#PCDATA)>
+<!ELEMENT resource (platform,src,vv)>
+<!ELEMENT platform (#PCDATA)>
+<!ELEMENT src (#PCDATA)>
+<!ELEMENT vv (#PCDATA)>
+<!ELEMENT comment (#PCDATA)>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<!-- 简易元素的定义 -->
+<xs:element name="animeName" type="xs:string"/>
+<xs:element name="platform" type="platform-list"/>
+<xs:element name="src" type="xs:string"/>
+<xs:element name="vv" type="xs:nonNegativeInteger" nillable="true"/>
+<xs:element name="comment" type="xs:string"/>
+<xs:simpleType name="people-list">
+    <xs:list itemType="xs:Name"/>
+</xs:simpleType>
+<!-- 属性的定义-->
+<xs:attribute name="id" type="xs:string"/>
+<!-- 符合元素的定义-->
+<xs:complexType name="score-scope">
+    <xs:simpleContent>
+        <xs:extension base="xs:decimal">
+            <xs:attribute type="platform-list" name="platform" use="required"/>
+        </xs:extension>
+    </xs:simpleContent>
+</xs:complexType>
+
+<xs:simpleType name="platform-list">
+    <xs:restriction base="xs:string">
+        <xs:enumeration value="腾讯视频"/>
+        <xs:enumeration value="优酷网"/>
+        <xs:enumeration value="土豆网"/>
+        <xs:enumeration value="bilibili"/>
+        <xs:enumeration value="爱奇艺"/>
+        <xs:enumeration value="youtube"/>
+        <xs:enumeration value="人人影视"/>
+        <xs:enumeration value="搜狐视频"/>
+        <xs:enumeration value="乐视网"/>
+        <xs:enumeration value="pptv"/>
+        <xs:enumeration value="豆瓣"/>
+    </xs:restriction>
+</xs:simpleType>
+
+<xs:element name="detail">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element name="animeMaker" type="xs:string"/>
+            <xs:element name="director" type="people-list"/>
+            <xs:element name="screenwriter" type="people-list"/>
+            <xs:element name="posterSrc" type="xs:string"/>
+            <xs:element name="releasePlace" type="xs:string"/>
+            <xs:element name="language" type="xs:string"/>
+            <xs:element name='duration' >
+                <xs:complexType>
+                    <xs:simpleContent>
+                        <xs:extension base="xs:nonNegativeInteger">
+                            <xs:attribute name="units" type="xs:string" default="minute" />
+                        </xs:extension>
+                    </xs:simpleContent>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="totalEpisodes" type="xs:integer"/>
+            <xs:element name="type">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="label" minOccurs="0" maxOccurs="unbounded">
+                            <xs:simpleType>
+                                <xs:restriction base="xs:string">
+                                    <xs:enumeration value="剧情"/>
+                                    <xs:enumeration value="玄幻"/>
+                                    <xs:enumeration value="武侠"/>
+                                    <xs:enumeration value="科幻"/>
+                                    <xs:enumeration value="历史"/>
+                                    <xs:enumeration value="冒险"/>
+                                    <xs:enumeration value="言情"/>
+                                    <xs:enumeration value="萌宠"/>
+                                    <xs:enumeration value="末日"/>
+                                    <xs:enumeration value="战争"/>
+                                    <xs:enumeration value="恐怖"/>
+                                    <xs:enumeration value="动漫改"/>
+                                    <xs:enumeration value="热血"/>
+                                    <xs:enumeration value="声控"/>
+                                    <xs:enumeration value="战斗"/>
+                                    <xs:enumeration value="恋爱"/>
+                                    <xs:enumeration value="校园"/>
+                                    <xs:enumeration value="智斗"/>
+                                    <xs:enumeration value="日常"/>
+                                    <xs:enumeration value="悬疑"/>
+                                    <xs:enumeration value="推理"/>
+                                    <xs:enumeration value="搞笑"/>
+                                </xs:restriction>
+                            </xs:simpleType>
+                        </xs:element>
+                    </xs:sequence>
+                    <xs:attribute name="form"  use="optional" default="2D">
+                        <xs:simpleType>
+                            <xs:restriction base="xs:string">
+                                <xs:enumeration value="2D"/>
+                                <xs:enumeration value="3D"/>
+                            </xs:restriction>
+                        </xs:simpleType>
+                    </xs:attribute>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="score" maxOccurs="unbounded">
+                <xs:complexType>
+                    <xs:simpleContent>
+                        <xs:restriction base="score-scope">
+                            <xs:fractionDigits value="1"/>
+                            <xs:maxInclusive value="10.0"/>
+                            <xs:minExclusive value="0.0" />
+                        </xs:restriction>
+                    </xs:simpleContent>
+                </xs:complexType>
+            </xs:element>
+            <xs:element name="startTime" type="xs:date"/>
+            <xs:element name="endTime" type="xs:date" nillable="true"/>
+            <xs:element name="animeIntroduction" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+<xs:element name="resource">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element ref="platform"/>
+            <xs:element ref="src"/>
+            <xs:element ref="vv" minOccurs="0"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+<xs:element name="animation">
+ <xs:complexType>
+  <xs:sequence>
+   <xs:element ref="animeName"/>
+   <xs:element ref="detail"/>
+   <xs:element ref="resource" maxOccurs="unbounded"/>
+   <xs:element ref="comment"/>
+  </xs:sequence>
+  <xs:attribute ref="id" use="required"/>
+ </xs:complexType>
+</xs:element>
+<xs:element name="animation-list">
+    <xs:complexType>
+        <xs:sequence>
+            <xs:element ref="animation" minOccurs="15" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:element>
+</xs:schema>
