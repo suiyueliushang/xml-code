@@ -63,6 +63,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 					border:1px solid green;
 					color: #999;
 				}
+				._desc_txt_lineHight{
+					color: #666;
+				}
 				.mod_figure_detail, .video_tag {
 					border:1px solid green;
 					margin-bottom: 1px;
@@ -70,13 +73,26 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 				}
 				.mod_figure_detail, .tag_tit {
 					border:1px solid red;
-					color: #999;
+					color: #666;
 					font-size: 12px;
 					line-height: 20px;
 					margin-left: 15px;
 					padding: 2px 0;
 				}
-				.mod_figure_detail, .tag_list, .tag {
+				.mod_figure_detail, .tag_list {
+					border:1px solid red;
+					display: inline-block;
+					position: relative;
+					top: 1px;
+					margin-right: 5px;
+					padding: 0 5px;
+					border-radius: 2px;
+					background: #fff;
+					color: #ff5c38;
+					font-size: 12px;
+					line-height: 16px;
+				}
+				.tag {
 					display: inline-block;
 					position: relative;
 					top: -1px;
@@ -120,9 +136,11 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 			<div class="video_tag cf">
 				<span class="tag_tit">标　签: </span>
 				<div class="tag_list">
-					
-					
+					<xsl:for-each select='detail/type/label'>
+						<div class="tag"  ><xsl:value-of select='current()'/></div>
+					</xsl:for-each>
 				</div>
+				
 			</div>
 			<div class ='video_desc'>
 				<span class="desc_tit">简　介：</span>
