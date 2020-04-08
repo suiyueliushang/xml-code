@@ -25,7 +25,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 					float:left;
 				}
 				.detail_pic {
-					border-radius: 8px;
+					border-radius: 10px;
 					width:300px;
 					height:400px;
 				}
