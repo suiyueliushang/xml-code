@@ -16,14 +16,15 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 							</p>
 							<div>
 								<p>创建时间：<xsl:value-of select='/poster/team/start_time'/>
-								</p>
-								<p>
+									<br/>
+									精品动漫的推荐
+									<br/>
 									leader:喻泽弘	member:李鑫
 								</p>
 							</div>
 						</div>
 						<div class='team_detail_frame_right'>
-							team_detail_frame_right
+							<img src='../asset/logo.svg' width='150%' class='logo_detail'/>
 						</div>
 					</div>
 					<div class='leader_frame'>

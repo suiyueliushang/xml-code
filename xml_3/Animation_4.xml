@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--teamid=13 team="一直自闭" version=3.0-->
+<?xml-stylesheet type="text/xsl" href="G:\xml-code\xml_3\poster.xsl"?>
+<animation-list xmlns:xsd="http://www.w3.org/2001/XMLSchema-instance" >
+    <animation id="A016">
+		<animeName>
+            我的青春恋爱物语果然有问题。
+        </animeName>
+		<detail>
+			<animeMaker>
+                Brain's Base
+            </animeMaker>
+			<director>
+                吉村爱
+            </director>
+			<screenwriter>
+                渡航
+            </screenwriter>
+			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
+			<releasePlace>
+                日本
+            </releasePlace>
+			<language>
+                日语
+            </language>
+			<duration units="minute">24</duration>
+			<totalEpisodes>23</totalEpisodes>
+			<type form="2D">
+				<label>日常</label>
+				<label>校园</label>
+				<label>智斗</label>
+				<label>恋爱</label>
+			</type>
+			<score platform="bilibili">9.7</score>
+			<startTime>2013-04-04</startTime>
+			<endTime>2013-06-27</endTime>
+			<animeIntroduction><![CDATA[就读于千叶市立综武高等学校高二年级的比企谷八幡，从幼年时代就交不到什么朋友。正当他已经放弃了交朋友这种念头的时候，生活指导老师平冢静介绍他进入了学校第一美女——俗称校花的雪之下雪乃所在的“奉仕部”。奉仕部是一个暗中帮助学生们解决问题的部门，所以不对外招募部员，都是以介绍的方式为部门输送新鲜血液。进入了奉仕部的八幡，和与他有着完全相反个性的由比滨结衣、中二病全开的材木座义辉、网球部的可爱男孩子户冢彩加等人，展开了一段段奇妙的故事……]]></animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+                https://www.bilibili.com/bangumi/media/md1539/?from=search
+            </src>
+			<vv>40763000</vv>
+		</resource>
+		<comment><![CDATA[青春是谎言也是罪恶，讴歌青春的人总是欺骗自己与同伴。永远不会忘记这句青春恋爱物语的开场白，只消这一句，就喜欢上比企谷喜欢雪乃团子，四月，让我们期待这永不完结的青春恋爱物语]]></comment>
+    </animation>
+    <animation id="A017">
+		<animeName>
+            我的青春恋爱物语果然有问题。续 
+        </animeName>
+		<detail>
+			<animeMaker>
+                ufotable
+            </animeMaker>
+			<director>
+                及川啓
+            </director>
+			<screenwriter>
+                渡航
+            </screenwriter>
+			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
+			<releasePlace>
+                日本
+            </releasePlace>
+			<language>
+                日语
+            </language>
+			<duration units="minute">24</duration>
+			<totalEpisodes>23</totalEpisodes>
+			<type form="2D">
+				<label>日常</label>
+				<label>校园</label>
+				<label>智斗</label>
+				<label>恋爱</label>
+			</type>
+			<score platform="bilibili">9.8</score>
+			<startTime>2015-04-02</startTime>
+			<endTime>2019-06-26</endTime>
+			<animeIntroduction><![CDATA[个性别扭、没有朋友、没有女朋友，对着那些讴歌青春的同学吐槽“他们都是骗子，都在说谎，快点爆炸吧现充”的男主角的爱情物语！将来的梦想是“不工作”（当个家庭主夫），这样的高中生八幡被生活指导老师带到了学校第一美少女雪乃所属的“侍奉部”，与美少女意想不到的相遇……怎么想都是恋爱故事的展开吧！？但是雪乃却无论如何都原谅不了八幡那令人残念的糟糕性格！不断轮回着的充满问题的青春——我的青春，到底怎么了！？]]></animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+                https://www.bilibili.com/bangumi/play/ep267851
+            </src>
+			<vv>89692000</vv>
+		</resource>
+		<comment><![CDATA[一定有人看完后，思考着自己的青春恋爱物语是否有问题，然后惊悚地发现，自己的青春，根本就与恋爱无关。]]></comment>
+    </animation>
+    <animation id="A018">
+		<animeName>
+            虚构推理
+        </animeName>
+		<detail>
+			<animeMaker>
+                高木登
+            </animeMaker>
+			<director>
+                城平京
+            </director>
+			<screenwriter>
+                高木登
+            </screenwriter>
+			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
+			<releasePlace>
+                日本
+            </releasePlace>
+			<language>
+                日语
+            </language>
+			<duration units="minute">24</duration>
+			<totalEpisodes>12</totalEpisodes>
+			<type form="2D">
+				<label>漫画改</label>
+				<label>神魔</label>
+				<label>恋爱</label>
+				<label>奇幻</label>
+			</type>
+			<score platform="bilibili">9.8</score>
+			<startTime>2019-04-07</startTime>
+			<endTime>2019-09-29</endTime>
+			<animeIntroduction><![CDATA[成为“怪异”们的智慧之神，每天都在解决着“怪异”们带来的麻烦的少女·岩永琴子，她一见钟情的对象·樱川九郎，是个让“怪异”都感到畏惧的男人！？这样毫不普通的两人，迎战“怪异”们引发的神秘事件的［恋爱×传奇×推理］！！两人所面临的诡异事件，以及恋情将会迎来怎样的结局——！？]]></animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+                https://www.bilibili.com/bangumi/play/ep267851
+            </src>
+			<vv>65329000</vv>
+		</resource>
+		<comment><![CDATA[十集前面的虚构倒是很精彩也很合理，具有极高的真实性，第十集之后就有些莫名其妙，完全不明白杠精网友是怎么被岩永琴子说服的，第十一集所谓的铺垫更是看不出前后关联来，不过制作和画风不错，人设很棒]]></comment>
+    </animation>
+    <animation id="A019">
+		<animeName>
+            火影忍者疾风传
+        </animeName>
+		<detail>
+			<animeMaker>
+                Studio Pierrot
+            </animeMaker>
+			<director>
+                伊达勇登
+            </director>
+			<screenwriter>
+                岸本齐史
+            </screenwriter>
+			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
+			<releasePlace>
+                日本
+            </releasePlace>
+			<language>
+                日语
+            </language>
+			<duration units="minute">23</duration>
+			<totalEpisodes>500</totalEpisodes>
+			<type form="2D">
+				<label>漫画改</label>
+				<label>热血</label>
+				<label>战斗</label>
+				<label>架空</label>
+			</type>
+			<score platform="bilibili">9.7</score>
+			<startTime>2007-02-15</startTime>
+			<endTime>2017-03-23</endTime>
+			<animeIntroduction><![CDATA[【应官方要求，本片字幕全网统一为优土译制版本。】火影忍者 自来也忍法帐]]></animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+                https://www.bilibili.com/bangumi/play/ep267851
+            </src>
+			<vv>110000000</vv>
+		</resource>
+		<comment><![CDATA[木叶飞舞之处，火亦生生不息。]]></comment>
+    </animation>
+    <animation id="A020">
+		<animeName>
+            博人传 火影忍者新时代
+        </animeName>
+		<detail>
+			<animeMaker>
+                Studio Pierrot
+            </animeMaker>
+			<director>
+                阿部记之
+            </director>
+			<screenwriter>
+                山下宏幸
+            </screenwriter>
+			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
+			<releasePlace>
+                日本
+            </releasePlace>
+			<language>
+                日语
+            </language>
+			<duration units="minute">23</duration>
+			<totalEpisodes>151</totalEpisodes>
+			<type form="2D">
+				<label>热血</label>
+				<label>架空</label>
+				<label>冒险</label>
+			</type>
+			<score platform="bilibili">4.1</score>
+			<startTime>2017-04-05</startTime>
+			<endTime>2020-04-05</endTime>
+			<animeIntroduction><![CDATA[随着和平的到来而走向近代化的木叶隐村。高楼林立，巨大显示屏中播放出影像，连结各区域的电车在村里奔驰。虽说是忍者村，但一般民众也增多，忍者的生存方式也在逐渐改变的这个时代——村子的领袖、第七代火影·漩涡鸣人的儿子博人，进入了培育忍者的学校“忍者学校”。周围的学生们带着“火影的儿子”这样偏见的目光看待博人，但博人凭借天生的破天荒性格将这种小事轻松越过！博人与新的伙伴相遇，他将如何挑战突然发生的神秘事件？在众人心中如疾风般狂奔的“漩涡博人”的物语，现在开始！！]]></animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+                https://www.bilibili.com/bangumi/play/ep267851
+            </src>
+			<vv>170000000</vv>
+		</resource>
+		<comment><![CDATA[这几年，在众多热血漫画作品中，能成功在“前辈们”的背影下脱颖而出的作品可谓寥若晨星。而这些作品里，却有一部漫画，
+            以十分细腻的人物塑造独具一格，并凭着自身实力赢得了一批核心观众的喜爱。]]></comment>
+	</animation>
+</animation-list>

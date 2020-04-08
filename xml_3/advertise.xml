@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="advertise.xsl"?>
+<!--teamid=13 team="一直自闭" version=3.0-->
+<animation-list >
+	<animation id="A006">
+		<animeName>
+			天行九歌
+		</animeName>
+		<detail>
+			<animeMaker>
+				杭州玄机科技信息有限公司
+			</animeMaker>
+			<director>
+				沈乐平 金蕾
+			</director>
+			<screenwriter>
+				沈乐平 
+			</screenwriter>
+			<posterSrc>
+				<![CDATA[ https://puui.qpic.cn/vcover_vt_pic/0/rm3tmmat4li8uul1554835621/0]]>
+			</posterSrc>
+			<releasePlace>
+				中国
+			</releasePlace>
+			<language>
+				汉语
+			</language>
+			<duration units="minute">
+				22
+			</duration>
+			<totalEpisodes>
+				90
+			</totalEpisodes>
+			<type form="3D">
+				<label>剧情</label>
+				<label>冒险</label>
+				<label>玄幻</label>
+				<label>历史</label>
+				<label>战斗</label>
+			</type>
+			<score platform="腾讯视频">
+				9.4
+			</score>
+			<score platform="bilibili">
+				9.7
+			</score>
+			<score platform="爱奇艺">
+				8.8
+			</score>
+			<startTime>
+				2016-3-10
+			</startTime>
+			<endTime>
+				2019-12-11
+			</endTime>
+			<animeIntroduction>
+				<![CDATA[战国末年，七国最弱的韩国危若累卵，对外有强邻秦国步步紧逼，国内又有大将军姬无夜为首的“夜幕”几乎操控整个韩国。秦国大兵压境，韩国危在旦夕。此刻正是朝野上下一心、同仇敌忾之时，却发生了一件离奇诡谲的案件，大雨倾盆中军饷神秘消失，涉案之人先后死于非命。终案件落到了韩国相国之孙张良手中。韩非，这个别人眼中的纨绔子弟，竟自愿卷入这场权力的游戏之中。前路危险莫测，敌人强大而狡猾。公子韩非联手鬼谷传人卫庄，与张良、紫女等人组建 “流沙”组织，欲借法家的现实理论，以及对人性的深刻剖析，逐渐拨开层层迷雾。然而，危机之下暗藏更大漩涡...权力纷争下，他们将如何守护自己的天地？ “天行九歌”是玄机科技旗下“秦时明月”的双子星品牌，大预算、大制作、大宣发，是一部战国题材3A级玄幻动画大作，是一部超高颜值的权谋史诗，该剧将引领观众进入战国末年，风起云涌的大时代中，战国七雄在乱世中群雄并起，百家争鸣。]]>
+			</animeIntroduction>
+		</detail>
+		<resource>
+			<platform>腾讯视频</platform>
+			<src>
+				<![CDATA[ https://v.qq.com/x/page/w0019k37ecc.html]]>
+			</src>
+			<vv>
+				1890000000
+			</vv>
+		</resource>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+				<![CDATA[https://www.bilibili.com/bangumi/play/ss5633/?from=search&seid=4423716428385628571]]>
+			</src>
+			<vv>
+				60746000
+			</vv>
+		</resource>
+		<platform>爱奇艺</platform>
+			<src>
+				<![CDATA[ https://www.iqiyi.com/v_19rrku9qfg.html]]>
+			</src>
+			<vv>
+				0
+			</vv>
+		<comment>
+			<![CDATA[ 秦时明月姊妹篇天行九歌，玄机继秦时明月之后又一部史诗级巨著。]]>
+		</comment>
+	</animation>
+</animation-list>

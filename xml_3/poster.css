@@ -10,7 +10,7 @@ h1{
 }
 .main_div{
     width:730px;
-    height:1300px;
+    height:1280px;
 }
 .team_detail_frame_left{
     float: left;
@@ -78,4 +78,8 @@ h1{
     margin-top: 20px;
     width:33%;
     border-radius: 50%;
+}
+.logo_detail{
+        padding-left: 50px;
+    padding-top: 50px;  
 }

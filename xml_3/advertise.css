@@ -1,0 +1,52 @@
+body{
+    background: url(../asset/tj.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-attachment: fixed;
+}
+div{
+}
+.lyric_desc{
+    font: 20pt 隶书;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right:40px;
+    color: azure;
+}
+.comment_desc{
+    float:left;
+    font :25pt 仿宋;
+    margin-top:30px;
+    margin-left:220px;
+    max-width: 50pt;
+    color:#555;
+}
+.main_desc{
+    float:left;
+    margin-left: 300px;
+    margin-top: 40px;
+    font:20pt 楷体;
+    color:rgba(44, 38, 38, 0.178)
+}
+.video_score {
+    display: inline-block;
+    z-index: 1;
+    position: relative;
+    height: 36px;
+    margin-top: -2px;
+    margin-left: -10px;
+    padding: 0 12px 0 20px;
+    color: #ff5c38;
+    font-size: 0;
+    line-height: 36px;
+    vertical-align: top;
+    cursor: default;
+}
+.mod_intro, .video_score, .units {
+    display: inline-block;
+    font: 32px Aadonuts;
+    line-height: 32px;
+}
+.font{
+    color: #555;
+}
