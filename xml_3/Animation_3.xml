@@ -730,7 +730,7 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
             </totalEpisodes>
             <type form="3D">
                 <label>剧情</label>
-                <label>冒险</label>
+                <label>冒险</label> 
                 <label>武侠</label>
                 <label>历史</label>
             </type>
@@ -913,7 +913,7 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
                 何小疯
             </screenwriter>
             <posterSrc>
-                http://www.baidu.com
+                <![CDATA[http://i0.hdslb.com/bfs/bangumi/8ff39c776f473d8f4fe77910cec59e87ebd1e275.jpg]]>
             </posterSrc>
             <releasePlace>
                 中国
@@ -976,7 +976,7 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
                 何小疯
             </screenwriter>
             <posterSrc>
-                http://www.baidu.com
+                <![CDATA[http://puui.qpic.cn/vcover_vt_pic/0/9jh7p3r7ljkxkmc1526440483/0]]>
             </posterSrc>
             <releasePlace>
                 中国
