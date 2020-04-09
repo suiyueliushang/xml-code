@@ -458,7 +458,7 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
 				8.8
 			</score>
 			<startTime>
-				2016-3-10
+				2016-03-12
 			</startTime>
 			<endTime>
 				2019-12-11
@@ -784,343 +784,343 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
 
 
 
-    <animation id="A011">
-        <animeName>
-            异度侵入 ID:INVADED
-        </animeName>
-        <detail>
-            <animeMaker>
-                ID:INVADED制作委员会
-            </animeMaker>
-            <director>
-                青木英 久保田雄大
-            </director>
-            <screenwriter>
-                舞城王太郎
-            </screenwriter>
-            <posterSrc>
-                <![CDATA[ http://i0.hdslb.com/bfs/bangumi/image/9bf9e66968f85b33ec3769a16c86b36dc984abbc.png]]>
-            </posterSrc>
-            <releasePlace>
-                日本
-            </releasePlace>
-            <language>
-                日语
-            </language>
-            <duration units="minute">
-                24
-            </duration>
-            <totalEpisodes>
-                13
-            </totalEpisodes>
-            <type form="2D">
-                <label>剧情</label>
-                <label>悬疑</label>
-                <label>推理</label>
-            </type>
-            <score platform="bilibili">
-                9.9
-            </score>
-            <startTime>
-                2020-01-06
-            </startTime>
-            <endTime>
-                2020-03-23
-            </endTime>
-            <animeIntroduction>
-                 <![CDATA[本片讲述利用能检测出人们杀意的装置以及利用思想粒子做出的“井”，来探知事件真相的科幻故事。]]>
-            </animeIntroduction>
-        </detail>
-        <resource>
-            <platform>bilibili</platform>
-            <src>
-                https://www.bilibili.com/bangumi/play/ep307446
-            </src>
-            <vv>
-                59725000
-            </vv>
-        </resource>
+	<animation id="A011">
+		<animeName>
+			异度侵入 ID:INVADED
+		</animeName>
+		<detail>
+			<animeMaker>
+				ID:INVADED制作委员会
+			</animeMaker>
+			<director>
+				青木英 久保田雄大
+			</director>
+			<screenwriter>
+				舞城王太郎
+			</screenwriter>
+			<posterSrc>
+				<![CDATA[ http://i0.hdslb.com/bfs/bangumi/image/9bf9e66968f85b33ec3769a16c86b36dc984abbc.png]]>
+			</posterSrc>
+			<releasePlace>
+				日本
+			</releasePlace>
+			<language>
+				日语
+			</language>
+			<duration units="minute">
+				24
+			</duration>
+			<totalEpisodes>
+				13
+			</totalEpisodes>
+			<type form="2D">
+				<label>剧情</label>
+				<label>悬疑</label>
+				<label>推理</label>
+			</type>
+			<score platform="bilibili">
+				9.9
+			</score>
+			<startTime>
+				2020-01-06
+			</startTime>
+			<endTime>
+				2020-03-23
+			</endTime>
+			<animeIntroduction>
+				 <![CDATA[本片讲述利用能检测出人们杀意的装置以及利用思想粒子做出的“井”，来探知事件真相的科幻故事。]]>
+			</animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+				https://www.bilibili.com/bangumi/play/ep307446
+			</src>
+			<vv>
+				59725000
+			</vv>
+		</resource>
 
-        <comment>
-            <![CDATA[作为一部推理番，逻辑严密、环环相扣，并在最后回收伏笔，一气呵成。]]>
-        </comment> 
-    </animation>
+		<comment>
+			<![CDATA[作为一部推理番，逻辑严密、环环相扣，并在最后回收伏笔，一气呵成。]]>
+		</comment> 
+	</animation>
 
-    <animation id="A012">
-        <animeName>
-            辉夜大小姐想让我告白~天才们的恋爱头脑战~
-        </animeName>
-        <detail>
-            <animeMaker>
-                A-1 Pictures
-            </animeMaker>
-            <director>
-                畠山守
-            </director>
-            <screenwriter>
-                中西泰博
-            </screenwriter>
-            <posterSrc>
-                <![CDATA[ http://i0.hdslb.com/bfs/bangumi/451037aabcdce0379752e087720673609894161a.png]]>
-            </posterSrc>
-            <releasePlace>
-                日本
-            </releasePlace>
-            <language>
-                日语
-            </language>
-            <duration units="minute">
-                24
-            </duration>
-            <totalEpisodes>
-                12
-            </totalEpisodes>
-            <type form="2D">
-                <label>恋爱</label>
-                <label>校园</label>
-                <label>智斗</label>
-                <label>日常</label>
-            </type>
-            <score platform="bilibili">
-                9.8
-            </score>
-            <startTime>
-                2019-01-12
-            </startTime>
-            <endTime>
-                2019-04-07
-            </endTime>
-            <animeIntroduction>
-                <![CDATA[家庭背景与人品都很棒！！一大群有前途的秀才所聚集的秀知院学园！！在那里的学生会相遇的副会长·四宫辉夜与会长·白银御行原本应该是彼此受到了对
-            方吸引…但想不到都过半年了却仍然什么事情也没发生！！最麻烦的是这两个自尊心超强、无法坦率的家伙，居然开始想着要“设法让对方向自己告白”！？直到恋情有下落之前会很欢乐的故事！！新感觉“斗智”爱情喜剧、就此开战！！]]>
-            </animeIntroduction>
-        </detail>
-        <resource>
-            <platform>bilibili</platform>
-            <src>
-                https://www.bilibili.com/bangumi/play/ep259770
-            </src>
-            <vv>
-                150000000
-            </vv>
-        </resource>
+	<animation id="A012">
+		<animeName>
+			辉夜大小姐想让我告白~天才们的恋爱头脑战~
+		</animeName>
+		<detail>
+			<animeMaker>
+				A-1 Pictures
+			</animeMaker>
+			<director>
+				畠山守
+			</director>
+			<screenwriter>
+				中西泰博
+			</screenwriter>
+			<posterSrc>
+				<![CDATA[ http://i0.hdslb.com/bfs/bangumi/451037aabcdce0379752e087720673609894161a.png]]>
+			</posterSrc>
+			<releasePlace>
+				日本
+			</releasePlace>
+			<language>
+				日语
+			</language>
+			<duration units="minute">
+				24
+			</duration>
+			<totalEpisodes>
+				12
+			</totalEpisodes>
+			<type form="2D">
+				<label>恋爱</label>
+				<label>校园</label>
+				<label>智斗</label>
+				<label>日常</label>
+			</type>
+			<score platform="bilibili">
+				9.8
+			</score>
+			<startTime>
+				2019-01-12
+			</startTime>
+			<endTime>
+				2019-04-07
+			</endTime>
+			<animeIntroduction>
+				<![CDATA[家庭背景与人品都很棒！！一大群有前途的秀才所聚集的秀知院学园！！在那里的学生会相遇的副会长·四宫辉夜与会长·白银御行原本应该是彼此受到了对
+			方吸引…但想不到都过半年了却仍然什么事情也没发生！！最麻烦的是这两个自尊心超强、无法坦率的家伙，居然开始想着要“设法让对方向自己告白”！？直到恋情有下落之前会很欢乐的故事！！新感觉“斗智”爱情喜剧、就此开战！！]]>
+			</animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+				https://www.bilibili.com/bangumi/play/ep259770
+			</src>
+			<vv>
+				150000000
+			</vv>
+		</resource>
 
-        <comment>
-            <![CDATA[《辉夜大小姐想让我告白》可能是发挥最稳定的一月新番，也一定是年初最有趣的动画。“死要面子活受罪”，这句话自古有之。这种情况一般都是两情相悦的两人
-            因为自尊心而嘴硬，结果没好果子吃。而这部动画更是将这句话的内涵展现的淋漓尽致。]]>
-        </comment> 
-    </animation>
+		<comment>
+			<![CDATA[《辉夜大小姐想让我告白》可能是发挥最稳定的一月新番，也一定是年初最有趣的动画。“死要面子活受罪”，这句话自古有之。这种情况一般都是两情相悦的两人
+			因为自尊心而嘴硬，结果没好果子吃。而这部动画更是将这句话的内涵展现的淋漓尽致。]]>
+		</comment> 
+	</animation>
 
-    <animation id="A013">
-        <animeName>
-            刺客伍六七
-        </animeName>
-        <detail>
-            <animeMaker>
-                广州小疯文化传播有限公司
-            </animeMaker>
-            <director>
-                邹沙沙
-            </director>
-            <screenwriter>
-                何小疯
-            </screenwriter>
-            <posterSrc>
-                <![CDATA[ https://i0.hdslb.com/bfs/bangumi/8ff39c776f473d8f4fe77910cec59e87ebd1e275.jpg]]>
-            </posterSrc>
-            <releasePlace>
-                中国
-            </releasePlace>
-            <language>
-                中文
-            </language>
-            <duration units="minute">
-                17
-            </duration>
-            <totalEpisodes>
-                10
-            </totalEpisodes>
-            <type form="2D">
-                <label>搞笑</label>
-                <label>热血</label>
-                <label>战斗</label>
-            </type>
-            <score platform="bilibili">
-                9.8
-            </score>
-            <startTime>
-                2018-04-25
-            </startTime>
-            <endTime>
-                2018-06-20
-            </endTime>
-            <animeIntroduction>
-                <![CDATA[在某个小岛上，有一个可以伪装成任何东西的廉价刺客，名叫伍六七。平时看上去是个理发师，其实背地里却做着刺客生意。热爱理发事业，喜欢给人剪头发，善用剪刀——剪刀也是他的刺杀武器。由于初入刺客行当，行情十分廉价，因此接到的都是些奇葩的刺杀任务。
-            在执行刺杀任务的过程中，与刺杀对象发生一系列有趣的意外事件。]]>
-            </animeIntroduction>
-        </detail>
-        <resource>
-            <platform>bilibili</platform>
-            <src>
-                https://www.bilibili.com/bangumi/play/ep207028
-            </src>
-            <vv>
-                230000000
-            </vv>
-        </resource>
+	<animation id="A013">
+		<animeName>
+			刺客伍六七
+		</animeName>
+		<detail>
+			<animeMaker>
+				广州小疯文化传播有限公司
+			</animeMaker>
+			<director>
+				邹沙沙
+			</director>
+			<screenwriter>
+				何小疯
+			</screenwriter>
+			<posterSrc>
+				<![CDATA[ https://i0.hdslb.com/bfs/bangumi/8ff39c776f473d8f4fe77910cec59e87ebd1e275.jpg]]>
+			</posterSrc>
+			<releasePlace>
+				中国
+			</releasePlace>
+			<language>
+				中文
+			</language>
+			<duration units="minute">
+				17
+			</duration>
+			<totalEpisodes>
+				10
+			</totalEpisodes>
+			<type form="2D">
+				<label>搞笑</label>
+				<label>热血</label>
+				<label>战斗</label>
+			</type>
+			<score platform="bilibili">
+				9.8
+			</score>
+			<startTime>
+				2018-04-25
+			</startTime>
+			<endTime>
+				2018-06-20
+			</endTime>
+			<animeIntroduction>
+				<![CDATA[在某个小岛上，有一个可以伪装成任何东西的廉价刺客，名叫伍六七。平时看上去是个理发师，其实背地里却做着刺客生意。热爱理发事业，喜欢给人剪头发，善用剪刀——剪刀也是他的刺杀武器。由于初入刺客行当，行情十分廉价，因此接到的都是些奇葩的刺杀任务。
+			在执行刺杀任务的过程中，与刺杀对象发生一系列有趣的意外事件。]]>
+			</animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+				https://www.bilibili.com/bangumi/play/ep207028
+			</src>
+			<vv>
+				230000000
+			</vv>
+		</resource>
 
-        <comment>
-            <![CDATA[该番用一首魔性的BGM引爆了观众的笑点。同时该漫不仅剧情连贯温馨搞笑，而分镜几乎是国漫的天花板之一。]]>
-        </comment> 
-    </animation>
+		<comment>
+			<![CDATA[该番用一首魔性的BGM引爆了观众的笑点。同时该漫不仅剧情连贯温馨搞笑，而分镜几乎是国漫的天花板之一。]]>
+		</comment> 
+	</animation>
 
-    <animation id="A014">
-        <animeName>
-            伍六七之最强发型师
-        </animeName>
-        <detail>
-            <animeMaker>
-                广州小疯文化传播有限公司
-            </animeMaker>
-            <director>
-                邹沙沙
-            </director>
-            <screenwriter>
-                何小疯
-            </screenwriter>
-            <posterSrc>
-                <![CDATA[ http://i0.hdslb.com/bfs/bangumi/image/d179871a635e9c908a53be6580714ce3c6fee5ba.jpg]]>
-            </posterSrc>
-            <releasePlace>
-                中国
-            </releasePlace>
-            <language>
-                中文
-            </language>
-            <duration units="minute">
-                17
-            </duration>
-            <totalEpisodes>
-                10
-            </totalEpisodes>
-            <type form="2D">
-                <label>搞笑</label>
-                <label>热血</label>
-                <label>战斗</label>
-            </type>
-            <score platform="bilibili">
-                9.8
-            </score>
-            <startTime>
-                2019-10-23
-            </startTime>
-            <endTime>
-                2020-01-01
-            </endTime>
-            <animeIntroduction>
-                <![CDATA[伍六七在帮助别人和寻找自我的过程中，认识了不同的人，并与不同角色之间发生了有趣的故事，最终用爱与包容化解了仇恨与偏见。]]>
-            </animeIntroduction>
-        </detail>
-        <resource>
-            <platform>bilibili</platform>
-            <src>
-                https://www.bilibili.com/bangumi/media/md28222513
-            </src>
-            <vv>
-                200000000
-            </vv>
-        </resource>
+	<animation id="A014">
+		<animeName>
+			伍六七之最强发型师
+		</animeName>
+		<detail>
+			<animeMaker>
+				广州小疯文化传播有限公司
+			</animeMaker>
+			<director>
+				邹沙沙
+			</director>
+			<screenwriter>
+				何小疯
+			</screenwriter>
+			<posterSrc>
+				<![CDATA[ http://i0.hdslb.com/bfs/bangumi/image/d179871a635e9c908a53be6580714ce3c6fee5ba.jpg]]>
+			</posterSrc>
+			<releasePlace>
+				中国
+			</releasePlace>
+			<language>
+				中文
+			</language>
+			<duration units="minute">
+				17
+			</duration>
+			<totalEpisodes>
+				10
+			</totalEpisodes>
+			<type form="2D">
+				<label>搞笑</label>
+				<label>热血</label>
+				<label>战斗</label>
+			</type>
+			<score platform="bilibili">
+				9.8
+			</score>
+			<startTime>
+				2019-10-23
+			</startTime>
+			<endTime>
+				2020-01-01
+			</endTime>
+			<animeIntroduction>
+				<![CDATA[伍六七在帮助别人和寻找自我的过程中，认识了不同的人，并与不同角色之间发生了有趣的故事，最终用爱与包容化解了仇恨与偏见。]]>
+			</animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+				https://www.bilibili.com/bangumi/media/md28222513
+			</src>
+			<vv>
+				200000000
+			</vv>
+		</resource>
 
-        <comment>
-            <![CDATA[刺客伍六七第二部延续了第一部的搞笑画风，同时将伍六七成为刺客的情节逐渐展开，发挥稳定。]]>
-        </comment> 
-    </animation>
-    
-    <animation id="A015">
-        <animeName>
-            鬼灭之刃
-        </animeName>
-        <detail>
-            <animeMaker>
-                ufotable
-            </animeMaker>
-            <director>
-                近藤光
-            </director>
-            <screenwriter>
-                ufotable
-            </screenwriter>
-            <posterSrc>
-                <![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]>
-            </posterSrc>
-            <releasePlace>
-                日本
-            </releasePlace>
-            <language>
-                日语
-            </language>
-            <duration units="minute">
-                24
-            </duration>
-            <totalEpisodes>
-                26
-            </totalEpisodes>
-            <type form="2D">
-                <label>动漫改</label>
-                <label>热血</label>
-                <label>战斗</label>
-                <label>声控</label>
-            </type>
-            <score platform="bilibili">
-                9.8
-            </score>
-            <startTime>
-                2019-04-07
-            </startTime>
-            <endTime>
-                2019-09-29
-            </endTime>
-            <animeIntroduction>
-                <![CDATA[大正时期，日本。心地善良的卖炭少年·炭治郎，有一天他的家人被鬼杀死了。而唯一幸存下来的妹妹——祢豆子变成了鬼。被绝望的现实打垮的炭治郎，为了寻找让妹妹变回人类的方法
-            ，决心朝着“鬼杀队”的道路前进。人与鬼交织的悲哀的兄妹的故事，现在开始！]]>
-            </animeIntroduction>
-        </detail>
-        <resource>
-            <platform>bilibili</platform>
-            <src>
-                https://www.bilibili.com/bangumi/play/ep267851
-            </src>
-            <vv>
-                420000000
-            </vv>
-        </resource>
+		<comment>
+			<![CDATA[刺客伍六七第二部延续了第一部的搞笑画风，同时将伍六七成为刺客的情节逐渐展开，发挥稳定。]]>
+		</comment> 
+	</animation>
+	
+	<animation id="A015">
+		<animeName>
+			鬼灭之刃
+		</animeName>
+		<detail>
+			<animeMaker>
+				ufotable
+			</animeMaker>
+			<director>
+				近藤光
+			</director>
+			<screenwriter>
+				ufotable
+			</screenwriter>
+			<posterSrc>
+				<![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]>
+			</posterSrc>
+			<releasePlace>
+				日本
+			</releasePlace>
+			<language>
+				日语
+			</language>
+			<duration units="minute">
+				24
+			</duration>
+			<totalEpisodes>
+				26
+			</totalEpisodes>
+			<type form="2D">
+				<label>动漫改</label>
+				<label>热血</label>
+				<label>战斗</label>
+				<label>声控</label>
+			</type>
+			<score platform="bilibili">
+				9.8
+			</score>
+			<startTime>
+				2019-04-07
+			</startTime>
+			<endTime>
+				2019-09-29
+			</endTime>
+			<animeIntroduction>
+				<![CDATA[大正时期，日本。心地善良的卖炭少年·炭治郎，有一天他的家人被鬼杀死了。而唯一幸存下来的妹妹——祢豆子变成了鬼。被绝望的现实打垮的炭治郎，为了寻找让妹妹变回人类的方法
+			，决心朝着“鬼杀队”的道路前进。人与鬼交织的悲哀的兄妹的故事，现在开始！]]>
+			</animeIntroduction>
+		</detail>
+		<resource>
+			<platform>bilibili</platform>
+			<src>
+				https://www.bilibili.com/bangumi/play/ep267851
+			</src>
+			<vv>
+				420000000
+			</vv>
+		</resource>
 
-        <comment>
-            <![CDATA[这几年，在众多热血漫画作品中，能成功在“前辈们”的背影下脱颖而出的作品可谓寥若晨星。而这些作品里，却有一部漫画，
-            以十分细腻的人物塑造独具一格，并凭着自身实力赢得了一批核心观众的喜爱。]]>
-        </comment> 
+		<comment>
+			<![CDATA[这几年，在众多热血漫画作品中，能成功在“前辈们”的背影下脱颖而出的作品可谓寥若晨星。而这些作品里，却有一部漫画，
+			以十分细腻的人物塑造独具一格，并凭着自身实力赢得了一批核心观众的喜爱。]]>
+		</comment> 
 	</animation>
 	<animation id="A016">
 		<animeName>
-            我的青春恋爱物语果然有问题。
-        </animeName>
+			我的青春恋爱物语果然有问题。
+		</animeName>
 		<detail>
 			<animeMaker>
-                Brain's Base
-            </animeMaker>
+				Brain's Base
+			</animeMaker>
 			<director>
-                吉村爱
-            </director>
+				吉村爱
+			</director>
 			<screenwriter>
-                渡航
-            </screenwriter>
+				渡航
+			</screenwriter>
 			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
 			<releasePlace>
-                日本
-            </releasePlace>
+				日本
+			</releasePlace>
 			<language>
-                日语
-            </language>
+				日语
+			</language>
 			<duration units="minute">24</duration>
 			<totalEpisodes>23</totalEpisodes>
 			<type form="2D">
@@ -1137,33 +1137,33 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
 		<resource>
 			<platform>bilibili</platform>
 			<src>
-                https://www.bilibili.com/bangumi/media/md1539/?from=search
-            </src>
+				https://www.bilibili.com/bangumi/media/md1539/?from=search
+			</src>
 			<vv>40763000</vv>
 		</resource>
 		<comment><![CDATA[青春是谎言也是罪恶，讴歌青春的人总是欺骗自己与同伴。永远不会忘记这句青春恋爱物语的开场白，只消这一句，就喜欢上比企谷喜欢雪乃团子，四月，让我们期待这永不完结的青春恋爱物语]]></comment>
-    </animation>
-    <animation id="A017">
+	</animation>
+	<animation id="A017">
 		<animeName>
-            我的青春恋爱物语果然有问题。续 
-        </animeName>
+			我的青春恋爱物语果然有问题。续 
+		</animeName>
 		<detail>
 			<animeMaker>
-                ufotable
-            </animeMaker>
+				ufotable
+			</animeMaker>
 			<director>
-                及川啓
-            </director>
+				及川啓
+			</director>
 			<screenwriter>
-                渡航
-            </screenwriter>
+				渡航
+			</screenwriter>
 			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
 			<releasePlace>
-                日本
-            </releasePlace>
+				日本
+			</releasePlace>
 			<language>
-                日语
-            </language>
+				日语
+			</language>
 			<duration units="minute">24</duration>
 			<totalEpisodes>23</totalEpisodes>
 			<type form="2D">
@@ -1180,33 +1180,33 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
 		<resource>
 			<platform>bilibili</platform>
 			<src>
-                https://www.bilibili.com/bangumi/play/ep267851
-            </src>
+				https://www.bilibili.com/bangumi/play/ep267851
+			</src>
 			<vv>89692000</vv>
 		</resource>
 		<comment><![CDATA[一定有人看完后，思考着自己的青春恋爱物语是否有问题，然后惊悚地发现，自己的青春，根本就与恋爱无关。]]></comment>
-    </animation>
-    <animation id="A018">
+	</animation>
+	<animation id="A018">
 		<animeName>
-            虚构推理
-        </animeName>
+			虚构推理
+		</animeName>
 		<detail>
 			<animeMaker>
-                高木登
-            </animeMaker>
+				高木登
+			</animeMaker>
 			<director>
-                城平京
-            </director>
+				城平京
+			</director>
 			<screenwriter>
-                高木登
-            </screenwriter>
+				高木登
+			</screenwriter>
 			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
 			<releasePlace>
-                日本
-            </releasePlace>
+				日本
+			</releasePlace>
 			<language>
-                日语
-            </language>
+				日语
+			</language>
 			<duration units="minute">24</duration>
 			<totalEpisodes>12</totalEpisodes>
 			<type form="2D">
@@ -1223,33 +1223,33 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
 		<resource>
 			<platform>bilibili</platform>
 			<src>
-                https://www.bilibili.com/bangumi/play/ep267851
-            </src>
+				https://www.bilibili.com/bangumi/play/ep267851
+			</src>
 			<vv>65329000</vv>
 		</resource>
 		<comment><![CDATA[十集前面的虚构倒是很精彩也很合理，具有极高的真实性，第十集之后就有些莫名其妙，完全不明白杠精网友是怎么被岩永琴子说服的，第十一集所谓的铺垫更是看不出前后关联来，不过制作和画风不错，人设很棒]]></comment>
-    </animation>
-    <animation id="A019">
+	</animation>
+	<animation id="A019">
 		<animeName>
-            火影忍者疾风传
-        </animeName>
+			火影忍者疾风传
+		</animeName>
 		<detail>
 			<animeMaker>
-                Studio Pierrot
-            </animeMaker>
+				Studio Pierrot
+			</animeMaker>
 			<director>
-                伊达勇登
-            </director>
+				伊达勇登
+			</director>
 			<screenwriter>
-                岸本齐史
-            </screenwriter>
+				岸本齐史
+			</screenwriter>
 			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
 			<releasePlace>
-                日本
-            </releasePlace>
+				日本
+			</releasePlace>
 			<language>
-                日语
-            </language>
+				日语
+			</language>
 			<duration units="minute">23</duration>
 			<totalEpisodes>500</totalEpisodes>
 			<type form="2D">
@@ -1266,33 +1266,33 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
 		<resource>
 			<platform>bilibili</platform>
 			<src>
-                https://www.bilibili.com/bangumi/play/ep267851
-            </src>
+				https://www.bilibili.com/bangumi/play/ep267851
+			</src>
 			<vv>110000000</vv>
 		</resource>
 		<comment><![CDATA[木叶飞舞之处，火亦生生不息。]]></comment>
-    </animation>
-    <animation id="A020">
+	</animation>
+	<animation id="A020">
 		<animeName>
-            博人传 火影忍者新时代
-        </animeName>
+			博人传 火影忍者新时代
+		</animeName>
 		<detail>
 			<animeMaker>
-                Studio Pierrot
-            </animeMaker>
+				Studio Pierrot
+			</animeMaker>
 			<director>
-                阿部记之
-            </director>
+				阿部记之
+			</director>
 			<screenwriter>
-                山下宏幸
-            </screenwriter>
+				山下宏幸
+			</screenwriter>
 			<posterSrc><![CDATA[ http://i0.hdslb.com/bfs/bangumi/9d9cd5a6a48428fe2e4b6ed17025707696eab47b.png]]></posterSrc>
 			<releasePlace>
-                日本
-            </releasePlace>
+				日本
+			</releasePlace>
 			<language>
-                日语
-            </language>
+				日语
+			</language>
 			<duration units="minute">23</duration>
 			<totalEpisodes>151</totalEpisodes>
 			<type form="2D">
@@ -1308,11 +1308,11 @@ xsd:noNamespaceSchemaLocation="Animation_3.xsd">
 		<resource>
 			<platform>bilibili</platform>
 			<src>
-                https://www.bilibili.com/bangumi/play/ep267851
-            </src>
+				https://www.bilibili.com/bangumi/play/ep267851
+			</src>
 			<vv>170000000</vv>
 		</resource>
 		<comment><![CDATA[这几年，在众多热血漫画作品中，能成功在“前辈们”的背影下脱颖而出的作品可谓寥若晨星。而这些作品里，却有一部漫画，
-            以十分细腻的人物塑造独具一格，并凭着自身实力赢得了一批核心观众的喜爱。]]></comment>
+			以十分细腻的人物塑造独具一格，并凭着自身实力赢得了一批核心观众的喜爱。]]></comment>
 	</animation>
 </animation-list>
