@@ -59,7 +59,20 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 							<img src='../asset/lx.jpg' alt='头像' class='my_image'/>
 						</div>
 					</div>
+					<br/>
+					<div class='task'>
+						Task:
+						<p class='small_detail'>
+							海报制作    <em>√</em> ||||||||| 数据显示	√
+							<br/>
+							-----------------------
+							<br/>
+							广告制作	√ ||||||||| xquery	√
+							<br/>
+						</p>
+					</div>
 				</div>
+				
 			</body>
 		</html>
 	</xsl:template>

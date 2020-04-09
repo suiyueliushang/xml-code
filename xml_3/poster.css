@@ -83,3 +83,14 @@ h1{
         padding-left: 50px;
     padding-top: 50px;  
 }
+.task{
+    margin-top: 130px;
+    margin-left: 100px;
+    font:25pt Aadonuts;
+    color: #ffd150;
+    max-width: 500px;
+    clear: float;
+}
+.small_detail{
+    font-size:15pt;
+}
