@@ -113,6 +113,9 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 						<span class='tag_tit'>v v: </span> 
 						<span class='_desc_txt_lineHight'><xsl:value-of select='vv'/></span>
 						<br/>
+						<span class='score_desc'>
+							<xsl:value-of select='../detail/score'/>
+						</span>
 					</div>
 				</xsl:for-each>
 			</div>
