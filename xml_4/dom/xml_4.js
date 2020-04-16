@@ -198,9 +198,10 @@ function sort(x){
 	var nodelist=xmlDoc.getElementsByTagName(x);
 	newXml=xmlDoc;
 	var list=new Array();
-	for(i=0;i<nodelist.length-1;i++){
-		var tem=i;
-		min=nodelist[i].childNodes[0].nodeValue
+	l=nodelist.length
+	for(i=0;i<l;i++){
+		var tem=0;
+		min=nodelist[0].childNodes[0].nodeValue
 		for(j=i+1;j<nodelist.length;j++){
 			if(nodelist[j].childNodes[0].nodeValue<min){
 				tem=j;
@@ -210,13 +211,14 @@ function sort(x){
 		}
 		list.push(tem);
 		//newXml.documentElement.replaceChild(xmlDoc.documentElement.childNodes[tem],newXml.documentElement.childNodes[i]);
-		if(tem!=i){
-			var node1=nodelist[tem];
-			var node2=nodelist[i];
-			nodelist[i]=node1
-			nodelist[tem]=node2
-
-		}
+		nodelist[tem].parent.removeChild(nodelist[tem]);
+		// if(tem!=i){
+		// 	var node1=nodelist[tem];
+		// 	var node2=nodelist[i];
+		// 	nodelist[i]=node1
+		// 	nodelist[tem]=node2
+			
+		// }
 
 	}
 	return list

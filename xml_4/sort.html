@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<html>
+	<link rel="stylesheet" type="text/css" href="xml_4.css" />
+	<script type="text/javascript" src="./xml_4.js"></script>
+	<head>
+		<title>
+			xml-4
+		</title>
+	</head>
+	<body class="body_back">
+		<div class="content">
+			<div class="sort">
+				排序：<br/>
+				<div>
+					<input type="radio" id="r1" name="r3" value="动漫名字"/>
+					<label for="huey">动漫名字</label>
+				</div>
+				<div>
+					<input type="radio" id="r2" name="r3" value="动漫集数"/>
+					<label for="huey">动漫集数</label>
+				</div>
+				<div>
+					<input type="radio" id="r3" name="r3" value="播放量"/>
+					<label for="huey">播放量</label>
+				</div>
+				<div>
+					<button type="button" id="r4" class="button_type" onclick="button4_click()">提交</button>
+				</div>
+
+			</div>
+			<div id="main_div" class='main_div'>
+				<script type="text/javascript">
+					xmlDoc=loadXMLDoc("Animation_4.xml");
+					string=scanXml(xmlDoc.documentElement,"",0);
+					document.write(string);
+				</script>
+			</div>
+		</div>
+	</body>
+		
+</html>

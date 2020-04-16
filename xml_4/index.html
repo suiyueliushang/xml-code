@@ -1,25 +1,70 @@
 <!DOCTYPE html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <html>
 	<link rel="stylesheet" type="text/css" href="xml_4.css" />
-	<link rel="stylesheet" href="./treant-js-master/vendor/perfect-scrollbar/perfect-scrollbar.css">
-	<link rel="stylesheet" type="text/css" href="./treant-js-master/Treant.css" />
-
-	<script type="text/javascript" src="xml_4.js" />
-	<script type="text/javascript" src='./treant-js-master/Treant.js' />
-	<script type="text/javascript" src='./treant-js-master/vendor/raphael.js' />
+	<script type="text/javascript" src="./xml_4.js"></script>
 	<head>
 		<title>
 			xml-4
 		</title>
 	</head>
-	<body class='body_back'>
-		<div class='content'>
-			<div>
-				背景模糊
+	<body class="body_back">
+		<div class="content">
+			<div id="main_div" class='main_div'>
+				<script type="text/javascript">
+					xmlDoc=loadXMLDoc("team_detail.xml");
+					string=scanXml(xmlDoc.documentElement,"",0);
+					document.write(string);
+				</script>
 			</div>
-			<canvas>
-				
-			</canvas>
+			<div class='alter'>
+				元素更新<br/>
+				<lable>选择器
+				<input id='selector' type="text" class='input_type'/>
+				</lable>
+				<br/>
+				<label>
+					更新值
+					<input id="value" type='text' class='input_type'/>
+				</label>
+				<br/>
+				<br/>
+				<button id="button1" type='button' class="button_type" onclick="button1_click()">提交
+				</button>
+			</div>
+			<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+			<div class='alter'>
+				属性更新
+				<br/>
+				<lable>选择器
+				<input id='selector2' type="text" class='input_type'/>
+				</lable>
+				<br/>
+				<label>
+					更新值
+					<input id="value2" type='text' class='input_type'/>
+				</label>
+				<br/>
+				<br/>
+				<button id="button2" type='button' class="button_type" onclick="button2_click()">提交
+				</button>
+			</div>
+			<div class='add'>
+				增加元素
+				<br/>
+				<lable>选择器
+				<input id='selector3' type="text" class='input_type'/>
+				</lable>
+				<br/>
+				<label>
+					增加值
+					<input id="value3" type='text' class='input_type'/>
+				</label>
+				<br/>
+				<br/>
+				<button id="button3" type='button' class="button_type" onclick="button3_click()">提交
+				</button>
+			</div>
 		</div>
 	</body>
 		
